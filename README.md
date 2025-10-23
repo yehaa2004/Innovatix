@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9bc08c05-a3ec-4c6a-b302-4a941b0ededf" />
 # Aptora - AI-Powered E-Learning Platform
 ---
 
